@@ -1,5 +1,5 @@
 # About Instane
-###Selenium Based Instagram Bot
+### Selenium Based Instagram Bot
 ```
  __     __   __     ______     ______   ______     __   __     ______    
 /\ \   /\ "-.\ \   /\  ___\   /\__  _\ /\  __ \   /\ "-.\ \   /\  ___\   
